@@ -9,6 +9,7 @@ Total: 31 competitions
 
 | Contest | High| Medium |
 | -------- | -------- | -------- |
+| 2024-01-decent |     2H   |  -- |
 | 2024-01-curves |     1H   |  -- |
 | 2023-09-centrifuge  |     --  | 1M |
 |  2023-08-dopex |     --  | 1M |
