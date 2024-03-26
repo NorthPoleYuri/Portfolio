@@ -16,7 +16,7 @@ Total: 31 competitions
 | 2023-08-tangible-caviar  |    1H | 1M | -- |
 |2023-07-tapioca   |    -- |        2M| -- |
 | 2023-07-pooltogether  | --    |1M   | -- |
-| 2023-06-lybra   | --    |1M   | [:pencil:] |
+| 2023-06-lybra   | --    |1M   | [:pencil:](https://github.com/NorthPoleYuri/Portfolio/tree/main/Code4rena/2023-06-lybra) |
 
 ## Sherlock
 
