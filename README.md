@@ -5,7 +5,7 @@ Total: 31 competitions
 11 Medium
 18 QA Reports
 
-## Code4rena ![image](https://camo.githubusercontent.com/d86ffd28dbf28a316958c41aa1745df551112bad9621625e6e35e89564740aab/68747470733a2f2f636f64653472656e612e636f6d2f6c6f676f732f63342d6c6f676f2e737667 =50%x)
+## Code4rena  <img src="https://camo.githubusercontent.com/d86ffd28dbf28a316958c41aa1745df551112bad9621625e6e35e89564740aab/68747470733a2f2f636f64653472656e612e636f6d2f6c6f676f732f63342d6c6f676f2e737667" alt="Image" width="80" height="12">
 
 | Contest | High| Medium |Security Report|
 | -------- | -------- | -------- |-------- |
