@@ -12,7 +12,7 @@ Total: 31 competitions
 | 2024-01-decent |     2H   |  -- | [:pencil:](https://github.com/NorthPoleYuri/Portfolio/blob/main/Code4rena/2024-01-decent/2024-01-decent.md) |
 | 2024-01-curves |     1H   |  -- | -- |
 | 2023-09-centrifuge  |     --  | 1M | -- |
-|  2023-08-dopex |     --  | 1M | -- |
+|  2023-08-dopex |     --  | 1M | [:pencil:](https://github.com/NorthPoleYuri/Portfolio/blob/main/Code4rena/2023-08-dopex/2023-08-dopex.md)  |
 | 2023-08-tangible-caviar  |    1H | 1M | -- |
 |2023-07-tapioca   |    -- |        2M| [:pencil:](https://github.com/NorthPoleYuri/Portfolio/blob/main/Code4rena/2023-07-tapioca/2023-07-tapioca.md) |
 | 2023-07-pooltogether  | --    |1M   | [:pencil:](https://github.com/NorthPoleYuri/Portfolio/blob/main/Code4rena/2023-07-pooltogether/2023-07-pooltogether.md) |
