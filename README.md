@@ -29,7 +29,8 @@ Total: 31 competitions
 
 | First Flight | High| Medium |Security Report|
 | -------- | -------- | -------- |-------- |
-| #1  |2H| -- |-- |
+| #1  |2H| -- |[:pencil:](https://github.com/NorthPoleYuri/Portfolio/blob/main/Code4rena/2023-07-tapioca/2023-07-tapioca.md) |
+| 2023-07-pooltogether  | --    |1M   | [:pencil:](https://github.com/NorthPoleYuri/Portfolio/blob/main/CodeHawks/%231-PasswordStore/%231-PasswordStore.md) |
 | #2  |2H| 1M |-- |
 | #5  |2H| -- |-- |
 | #6  |1H| -- |-- |
