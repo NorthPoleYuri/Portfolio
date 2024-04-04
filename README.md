@@ -30,9 +30,9 @@ Total: 31 competitions
 | First Flight | High| Medium |Security Report|
 | -------- | -------- | -------- |-------- |
 | #1  |2H| -- |[:pencil:](https://github.com/NorthPoleYuri/Portfolio/blob/main/CodeHawks/%231-PasswordStore/%231-PasswordStore.md) |
-| #2  |2H| 1M |-- |
-| #5  |2H| -- |-- |
-| #6  |1H| -- |-- |
+| #2  |2H| 1M |[:pencil:](https://github.com/NorthPoleYuri/Portfolio/blob/main/CodeHawks/%232-Puppy%20Raffle/%232-Puppy%20Raffle.md) |
+| #5  |2H| -- |[:pencil:](https://github.com/NorthPoleYuri/Portfolio/blob/main/CodeHawks/%235-Santa'sList/%235-Santa'sList.md) |
+| #6  |1H| -- |[:pencil:](https://github.com/NorthPoleYuri/Portfolio/blob/main/CodeHawks/%236-VotingBooth/%236-VotingBooth.md) |
 
 
 
